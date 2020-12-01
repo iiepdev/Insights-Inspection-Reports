@@ -16,4 +16,4 @@ The expected deliverable is a "proof of concept" that the use of textual data fr
 
 The 3,850 inspection reports from all over Ireland, in PDF format, and following a single structure can be retrieved from the inspection site by webscraping. This repository contains Python and R code that downloads inspection reports, transforms them into text format, and does simple analyzes. The repository also contains a GeoPackage with geospatial data for schools in Ireland.
 
-The focal point for this challenge is German Vargas Mesa (g.vargas@iiep.unesco.org).
+The focal point for this challenge is German Vargas Mesa (g.vargas@iiep.unesco.org) from the Development unit at IIEP.
