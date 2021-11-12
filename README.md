@@ -1,4 +1,4 @@
-# Inspection Reports
+# Insights from Inspection Reports
 
 This repository was created for the IIEP Hackathon "Hacking Planning", which will take place virtually on the 30th and 31st of January, 2021. The purpose of this event is to bring together educational planners and programmers to tackle some of the challenges facing educational planning worldwide, harnessing the considerable potential of spatial data and open source software for the benefit of countries around the globe. 
 
